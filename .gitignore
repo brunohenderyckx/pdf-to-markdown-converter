@@ -1,0 +1,9 @@
+CLAUDE.md
+
+# Conversion output
+markdown/
+
+# Python
+.venv/
+__pycache__/
+*.pyc

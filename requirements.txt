@@ -1,0 +1,7 @@
+# Install one or both backends depending on which you use.
+#
+# Default backend (--backend docling):
+#   pip install docling
+#
+# Faster backend for simpler documents (--backend marker):
+#   pip install marker-pdf
